@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            VaSaMo/animal-farm-nodejs:latest
-            ghcr.io/VaSaMo/animal-farm-nodejs:latest
+            vasamo/animal-farm-nodejs:latest
+            ghcr.io/vasamo/animal-farm-nodejs:latest
